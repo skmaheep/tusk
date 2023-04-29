@@ -2,5 +2,7 @@ welcome to my github
 pasta
 paneer
 chicken fry
+beans
+pizza
  
 thank you
